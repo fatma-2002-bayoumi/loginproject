@@ -1,0 +1,13 @@
+.inputs{
+    box-shadow:-5px 2px 54px -9px rgba(0, 0, 0, 1) ;
+}
+input:focus {
+    outline: 2px solid pink  !important ; 
+    box-shadow: 0 0 5px pink !important;
+    border: none;
+  }
+  button:focus {
+    outline: 2px solid pink  !important ; 
+    box-shadow: 0 0 5px pink !important;
+    border: none;
+  }
